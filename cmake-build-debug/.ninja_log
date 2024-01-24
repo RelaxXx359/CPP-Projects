@@ -1,0 +1,18 @@
+# ninja log v5
+12	278	7278052680094825	CMakeFiles/OnlineShop.dir/Drinks.cpp.obj	8fc0fe82da7ef805
+13	278	7278056570772013	CMakeFiles/OnlineShop.dir/NoAlcoholic.cpp.obj	833cfb5f64f43f23
+7	303	7278057379231292	CMakeFiles/OnlineShop.dir/User.cpp.obj	ad52cd251efb1232
+3	321	7278052923162125	CMakeFiles/OnlineShop.dir/main.cpp.obj	8a9900d4434da5b2
+2	243	7278057378608228	CMakeFiles/OnlineShop.dir/Alcoholic.cpp.obj	ab988dc38291981d
+322	436	7278052924281527	OnlineShop.exe	1e7779f8bafec6ba
+11	296	7278057379151287	CMakeFiles/OnlineShop.dir/Orders.cpp.obj	7200784f00c50b3b
+4	129	7278059080932865	build.ninja	42b2a006e539e380
+8	303	7278079639365241	CMakeFiles/OnlineShop.dir/Shop.cpp.obj	f8d4eb3a1b527b32
+1	329	7278079639615235	CMakeFiles/OnlineShop.dir/main.cpp.obj	8a9900d4434da5b2
+329	417	7278079640476023	OnlineShop.exe	f9dfa183a149976a
+5	321	7278099565247522	CMakeFiles/OnlineShop.dir/Shop.cpp.obj	f8d4eb3a1b527b32
+1	355	7278099565587649	CMakeFiles/OnlineShop.dir/main.cpp.obj	8a9900d4434da5b2
+356	437	7278099566377509	OnlineShop.exe	f9dfa183a149976a
+2	323	7278132123621578	CMakeFiles/OnlineShop.dir/main.cpp.obj	8a9900d4434da5b2
+2	412	7278132223466730	CMakeFiles/OnlineShop.dir/Shop.cpp.obj	f8d4eb3a1b527b32
+413	506	7278132224405182	OnlineShop.exe	f9dfa183a149976a

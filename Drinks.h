@@ -8,30 +8,27 @@ using namespace std;
 
 class Drinks {
 public:
-    Drinks(string name, double price, double quantity, string type);
+    Drinks(string name, double price, int quantity, string type);
 
     virtual void print();
-
-    string getName();
+    virtual double calculatePrice();
 
     void setName(string name);
-
-    double getPrice();
-
     void setPrice(double price);
+    void setQuantity(int quantity);
+    void setType(string type);
 
-    double getQuantity() ;
-
-    void setQuantity(double quantity);
-
+    string getName();
+    double getPrice();
+    int getQuantity() ;
     string getType();
 
-    void setType(string type);
+
 
 private:
     string name;
     double price;
-    double quantity;
+    int quantity;
     string type;
 
 };

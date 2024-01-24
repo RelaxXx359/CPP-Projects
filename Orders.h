@@ -3,31 +3,35 @@
 
 #include <string>
 #include "Alcoholic.h"
-#include "NoAlcoholic.h"
-
+#include "NonAlcoholic.h"
+#include <vector>
 using namespace std;
 
 class Orders {
 public:
-    Orders(string drinks, string date, double totalprice);
 
+    static int number;
+    Orders(const char *drinks, string date);
+
+    void setNumber(int);
+    void setDate(string);
+    double setTotalPrice(double);
+
+
+    int getNumbers();
+    string getDate();
+    vector<Drinks*> getDrinks();
+    double getTotalPrice();
 
     void printOrder();
+    double calculateTotalPrice();
 
-    string getDrinks();
-    void setDrinks(string drinks);
-
-    string getDate();
-    void setDate(string date);
-
-    double getTotalprice();
-    void setTotalprice(double totalprice);
 
 private:
-    string drinks;
+    int numbers;
+    vector<Drinks*> drinks;
     string date;
     double totalprice;
-
 };
 
 

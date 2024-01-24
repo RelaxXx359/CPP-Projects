@@ -1,12 +1,12 @@
 #ifndef ONLINESHOP_ALCOHOLIC_H
 #define ONLINESHOP_ALCOHOLIC_H
+
 #include "Drinks.h"
 
-class Alcoholic: public Drinks{
+class Alcoholic : public Drinks {
 public:
-    Alcoholic( string name, double price, double quantity, string type, int volume, double fee);
+    Alcoholic(string name, double price, int quantity, string type, int volume, double fee);
 
-     double calculatePrice();
 
     int getVolume();
 
@@ -15,6 +15,10 @@ public:
     double getFee();
 
     void setFee(double fee);
+
+    double calculatePrice();
+
+    void print();
 
 private:
     int volume;

@@ -1,28 +1,45 @@
-#include "NoAlcoholic.h"
+#include "NonAlcoholic.h"
 #include "Drinks.h"
 
-NoAlcoholic::NoAlcoholic(string name, double price, double quantity, string type, double litres,
-                         double cityTax) : Drinks(name, price, quantity, type), litres(litres), cityTax(cityTax) {
+NonAlcoholic::NonAlcoholic(string name, double price, int quantity, string type, double litres,
+                           int cityTax) : Drinks(name, price, quantity, type), litres(litres), cityTax(cityTax) {
     setCityTax(cityTax);
     setLitres(litres);
 }
 
-double NoAlcoholic::calculatePrice() {
-    cout << getName() << " " << getPrice() << " " << getQuantity()<< " " << getType() << " " << getLitres() << " " << getCityTax() << endl;
-    cout << "Total price: " << this-> getQuantity() * this->getPrice() * this->getCityTax() << endl;
-    return 0.0;
+void NonAlcoholic::setCityTax(int cityTax) {
+    if (cityTax <= 0) {
+        cout << "City tax" << endl;
+    }
+    NonAlcoholic::cityTax = cityTax;
 }
 
-double NoAlcoholic::getLitres() {
+void NonAlcoholic::setLitres(double litres) {
+    if (litres == 0.5) {
+        cout << "A bottle 500 ml" << endl;
+    } else if (litres = 2) {
+        cout << "A bottle 2 litres" << endl;
+
+    }
+    NonAlcoholic::litres = litres;
+}
+
+
+double NonAlcoholic::calculatePrice() {
+    return this->getQuantity() * (this->getPrice() * this->getCityTax());
+}
+
+
+void NonAlcoholic::print() {
+    Drinks::print();
+    cout << "Liters: " << this->getLitres() << " Total price: " << this->calculatePrice() << endl;
+}
+
+
+double NonAlcoholic::getLitres() {
     return litres;
 }
-void NoAlcoholic::setLitres(double litres) {
-    NoAlcoholic::litres = litres;
-}
 
-double NoAlcoholic::getCityTax() {
+int NonAlcoholic::getCityTax() {
     return cityTax;
-}
-void NoAlcoholic::setCityTax(double cityTax) {
-    NoAlcoholic::cityTax = cityTax;
 }
