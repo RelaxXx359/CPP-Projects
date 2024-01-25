@@ -18,7 +18,219 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7f496e8-5d0c-4a13-8d60-d962657457aa" name="Changes" comment="" />
+    <list default="true" id="e7f496e8-5d0c-4a13-8d60-d962657457aa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../DevStyler/Demos/CommissionEmployee/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/15.01.24" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/.idea/Accound.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/cmake-build-debug/.cmake/api/v1/reply/cache-v2-0ff04276188cffae947a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-72b837d078c0702a66ab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-ea709c0ec5c7e43667ac.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/cmake-build-debug/.cmake/api/v1/reply/index-2024-01-25T10-11-24-0195.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/cmake-build-debug/.cmake/api/v1/reply/target-Bank-Debug-3a442e4f3b4c27d99f0b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-56d96971b69f9fe26188.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/cmake-build-debug/CMakeFiles/3.27.8/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/cmake-build-debug/CMakeFiles/3.27.8/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/cmake-build-debug/CMakeFiles/3.27.8/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Accound/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Bank/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Bank/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Bank/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Bank/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Bank/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Bank/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Bank/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Bank/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Bank/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Bank/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Bank/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Bank/cmake-build-debug/CMakeFiles/3.27.8/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Bank/cmake-build-debug/CMakeFiles/3.27.8/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Bank/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Bank/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Bank/cmake-build-debug/CMakeFiles/3.27.8/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Bank/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Bank/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Bank/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Bank/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Bank/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Bank/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Bank/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Bank/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Bank/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Bank/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Bank/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Bank/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/.cmake/api/v1/reply/cache-v2-8e7f009d4c64b263847d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-907691bf8059a7c50fcc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-635f9e382b8c3b008cdb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/.cmake/api/v1/reply/index-2024-01-19T11-32-42-0592.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/.cmake/api/v1/reply/target-Library-Debug-6dbd06d0d6f9d71365de.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-56d96971b69f9fe26188.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/CMakeFiles/3.27.8/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/CMakeFiles/3.27.8/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/CMakeFiles/3.27.8/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/CMakeFiles/Library.dir/Autor.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/CMakeFiles/Library.dir/Book.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/CMakeFiles/Library.dir/Library.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/CMakeFiles/Library.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/Library.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Library/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/cmake-build-debug/.cmake/api/v1/reply/cache-v2-735eacabec84930dac8d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-99f17320614ab5c73668.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-e7c862427192b11e4b50.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/cmake-build-debug/.cmake/api/v1/reply/index-2024-01-25T09-56-49-0591.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/cmake-build-debug/.cmake/api/v1/reply/target-Team-Debug-63994fa1a0f66f4e5858.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-56d96971b69f9fe26188.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/cmake-build-debug/CMakeFiles/3.27.8/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/cmake-build-debug/CMakeFiles/3.27.8/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/cmake-build-debug/CMakeFiles/3.27.8/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/Team/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/.cmake/api/v1/reply/cache-v2-bead5ef3e92e67a8c4af.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-e7c15244689dae02bb10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-ce88e5cc83da7aa5bffa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/.cmake/api/v1/reply/index-2024-01-23T09-03-10-0707.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/.cmake/api/v1/reply/target-FootballFederation_-Debug-9f7e723f656c8f5c8965.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-56d96971b69f9fe26188.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/CMakeFiles/3.27.8/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/CMakeFiles/3.27.8/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/CMakeFiles/3.27.8/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/CMakeFiles/FootballFederation_.dir/Admin.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/CMakeFiles/FootballFederation_.dir/Team.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/CMakeFiles/FootballFederation_.dir/Users.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/CMakeFiles/FootballFederation_.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/FootballFederation_.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPP/footballFederation/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled123/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DevStyler/Demos/CommissionEmployee/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DevStyler/Demos/CommissionEmployee/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DevStyler/Demos/CommissionEmployee/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DevStyler/Demos/CommissionEmployee/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OPP/Packages" beforeDir="false" afterPath="$PROJECT_DIR$/../OPP/Packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OPP/footballFederation/.idea/footballFederation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../OPP/footballFederation/.idea/footballFederation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OPP/footballFederation/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OPP/footballFederation/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/cache-v2-04b55bbbc94198d2ff60.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-881150f405fee0587264.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-6c9ff934c0881f8ae3ba.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/index-2024-01-25T08-53-08-0516.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/target-CPP_Projects-Debug-fb39fdc0138eb778324f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-56d96971b69f9fe26188.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled123/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled123/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +240,9 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2023" />
@@ -41,32 +256,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;CMake Application.Demos__2_.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dobrolyub Velinov/CLionProjects/Demos (2)&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.Demos__2_.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Dobrolyub Velinov/Cpp-projects/DevStyler3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
-  </component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -86,6 +295,7 @@
       <workItem from="1705669658139" duration="507000" />
       <workItem from="1705729089276" duration="38000" />
       <workItem from="1705730164212" duration="1302000" />
+      <workItem from="1706180657892" duration="24000" />
     </task>
     <servers />
   </component>
