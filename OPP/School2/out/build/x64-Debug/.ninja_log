@@ -1,0 +1,6 @@
+# ninja log v5
+3	190	7264477959064900	CMakeFiles/Scool.dir/main.cpp.obj	f19fd1aa212993cc
+5	291	7264477960072485	CMakeFiles/Scool.dir/Student.cpp.obj	9965cb47dc50eb42
+6	301	7264477960072485	CMakeFiles/Scool.dir/Teacher.cpp.obj	a3d4a7bf7902ef0b
+2	8	0	clean	21a4d0550fd2b6b1
+12	18	0	clean	21a4d0550fd2b6b1

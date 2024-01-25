@@ -1,0 +1,19 @@
+# ninja log v5
+4	239	7275659361010380	CMakeFiles/BookAutor.dir/Author.cpp.obj	d2a6cac28b37fca9
+6	250	7275659361140519	CMakeFiles/BookAutor.dir/Book.cpp.obj	695d5b78bfd18cd5
+0	346	7275659362094646	CMakeFiles/BookAutor.dir/main.cpp.obj	a54640163102fc29
+346	417	7275659362784447	BookAutor.exe	df60ef7a11eb0789
+7	247	7275676164743304	CMakeFiles/BookAutor.dir/Author.cpp.obj	d2a6cac28b37fca9
+5	248	7275676164743304	CMakeFiles/BookAutor.dir/Book.cpp.obj	695d5b78bfd18cd5
+2	320	7275676165465756	CMakeFiles/BookAutor.dir/main.cpp.obj	a54640163102fc29
+320	408	7275676166304050	BookAutor.exe	df60ef7a11eb0789
+11	236	7275731023123291	CMakeFiles/BookAutor.dir/Author.cpp.obj	d2a6cac28b37fca9
+2	295	7275731023713665	CMakeFiles/BookAutor.dir/main.cpp.obj	a54640163102fc29
+2	223	7275731149976472	CMakeFiles/BookAutor.dir/Book.cpp.obj	695d5b78bfd18cd5
+223	320	7275731150902103	BookAutor.exe	df60ef7a11eb0789
+10	232	7275731475796651	CMakeFiles/BookAutor.dir/Author.cpp.obj	d2a6cac28b37fca9
+2	318	7275731476650132	CMakeFiles/BookAutor.dir/main.cpp.obj	a54640163102fc29
+2	221	7275731559682769	CMakeFiles/BookAutor.dir/Book.cpp.obj	695d5b78bfd18cd5
+221	279	7275731560236891	BookAutor.exe	df60ef7a11eb0789
+2	243	7275732253928996	CMakeFiles/BookAutor.dir/Book.cpp.obj	695d5b78bfd18cd5
+243	308	7275732254551501	BookAutor.exe	df60ef7a11eb0789

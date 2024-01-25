@@ -1,0 +1,3 @@
+C:/Users/Dobrolyub Velinov/CLionProjects/CommissionEmployee/cmake-build-debug/CMakeFiles/CommissionEmployee.dir
+C:/Users/Dobrolyub Velinov/CLionProjects/CommissionEmployee/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dobrolyub Velinov/CLionProjects/CommissionEmployee/cmake-build-debug/CMakeFiles/rebuild_cache.dir
