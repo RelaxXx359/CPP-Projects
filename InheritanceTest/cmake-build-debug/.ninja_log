@@ -1,0 +1,7 @@
+# ninja log v5
+3	244	7267045025023967	CMakeFiles/InheritanceTest.dir/Dog.cpp.obj	9584936ac82772c3
+0	316	7267045025750969	CMakeFiles/InheritanceTest.dir/main.cpp.obj	fab5b94ab45da156
+0	7	0	clean	b26e0f42c341beb7
+5	248	7267045323692478	CMakeFiles/InheritanceTest.dir/Dog.cpp.obj	9584936ac82772c3
+2	326	7267045324460294	CMakeFiles/InheritanceTest.dir/main.cpp.obj	fab5b94ab45da156
+2	286	7267046279174026	CMakeFiles/InheritanceTest.dir/main.cpp.obj	fab5b94ab45da156

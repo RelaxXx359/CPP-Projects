@@ -1,0 +1,9 @@
+# ninja log v5
+71	392	7272913127065359	CMakeFiles/Demos__1_.dir/Demos/CommissionEmployee/BasePlusCommissionEmployee.cpp.obj	ae582f9cdb3bd974
+81	412	7272913127272928	CMakeFiles/Demos__1_.dir/Demos/DerivedBaseClassObject/BasePlusCommissionEmployee.cpp.obj	b8a7e6d49a187814
+93	423	7272913127392943	CMakeFiles/Demos__1_.dir/Demos/CommissionEmployee/CommissionEmployee.cpp.obj	11ddea2045dc6a9f
+140	438	7272913127532939	CMakeFiles/Demos__1_.dir/Demos/Polymorphism/BasePlusCommissionEmployee.cpp.obj	3ee48aa922238920
+97	441	7272913127565633	CMakeFiles/Demos__1_.dir/Demos/DerivedBaseClassObject/CommissionEmployee.cpp.obj	ac011b34eed72033
+90	447	7272913127635648	CMakeFiles/Demos__1_.dir/Demos/CommissionEmployee/main.cpp.obj	b72f81ba46e04708
+101	452	7272913127675796	CMakeFiles/Demos__1_.dir/Demos/DerivedMemberFunction/BasePlusCommissionEmployee.cpp.obj	143173b61fd3378
+114	472	7272913127847507	CMakeFiles/Demos__1_.dir/Demos/DerivedMemberFunction/CommissionEmployee.cpp.obj	4bcc73a07bd3381e

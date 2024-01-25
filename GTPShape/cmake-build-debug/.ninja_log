@@ -1,0 +1,5 @@
+# ninja log v5
+3	222	7272930477973168	CMakeFiles/GTPShape.dir/Shape.cpp.obj	a5a34fcde463046b
+6	248	7272930478232572	CMakeFiles/GTPShape.dir/Circle.cpp.obj	5e94f1d5f85fc1ee
+1	279	7272931986308633	CMakeFiles/GTPShape.dir/main.cpp.obj	65dfcf5a2b529ba0
+279	455	7272931988044664	GTPShape.exe	bb812b4f24445d11
