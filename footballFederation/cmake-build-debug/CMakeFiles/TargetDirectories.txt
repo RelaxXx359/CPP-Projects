@@ -1,3 +1,0 @@
-C:/Users/Dobrolyub Velinov/CLionProjects/footballFederation/cmake-build-debug/CMakeFiles/FootballFederation_.dir
-C:/Users/Dobrolyub Velinov/CLionProjects/footballFederation/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Dobrolyub Velinov/CLionProjects/footballFederation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
