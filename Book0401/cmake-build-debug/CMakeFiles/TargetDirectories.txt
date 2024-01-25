@@ -1,0 +1,3 @@
+C:/Users/Dobrolyub Velinov/CLionProjects/Book0401/cmake-build-debug/CMakeFiles/Book0401.dir
+C:/Users/Dobrolyub Velinov/CLionProjects/Book0401/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dobrolyub Velinov/CLionProjects/Book0401/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/Dobrolyub Velinov/Cpp-projects/cmake-build-debug/CMakeFiles/CPP_Projects.dir
+C:/Users/Dobrolyub Velinov/Cpp-projects/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dobrolyub Velinov/Cpp-projects/cmake-build-debug/CMakeFiles/rebuild_cache.dir

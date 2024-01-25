@@ -1,0 +1,5 @@
+# ninja log v5
+6	290	7266188796053384	CMakeFiles/Book0401.dir/Book.cpp.obj	88b5e3c1d5e39c3b
+9	302	7266188796178838	CMakeFiles/Book0401.dir/BookService.cpp.obj	3eb356ffc623e559
+1	346	7266188796589352	CMakeFiles/Book0401.dir/main.cpp.obj	921f1c9831df3c91
+346	439	7266188797530376	Book0401.exe	68a7f82136fd58d
