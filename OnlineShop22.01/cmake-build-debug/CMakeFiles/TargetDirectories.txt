@@ -1,3 +1,0 @@
-C:/Users/Dobrolyub Velinov/CLionProjects/Ex22.01/cmake-build-debug/CMakeFiles/Ex22_01.dir
-C:/Users/Dobrolyub Velinov/CLionProjects/Ex22.01/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Dobrolyub Velinov/CLionProjects/Ex22.01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
