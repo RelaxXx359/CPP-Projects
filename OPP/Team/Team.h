@@ -6,9 +6,16 @@
 using namespace std;
 
 class Team {
-
 public:
+    Team(string, int);
 
+    void setName(string);
+    void setPoints(int);
+
+    string getName();
+    int getPoints();
+
+    virtual void print();
 
 private:
     string name;

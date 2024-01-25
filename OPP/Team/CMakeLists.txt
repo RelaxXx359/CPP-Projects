@@ -7,4 +7,5 @@ add_executable(Team main.cpp
         Admin.cpp
         Admin.h
         Team.cpp
-        Team.h)
+        Team.h
+        Schedule.h)
