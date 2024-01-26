@@ -1,0 +1,3 @@
+C:/Users/Dobrolyub Velinov/Downloads/OperatorOveerloading (1)/OperatorOveerloading/Demos/PhoneNumber/cmake-build-debug/CMakeFiles/PhoneNumber.dir
+C:/Users/Dobrolyub Velinov/Downloads/OperatorOveerloading (1)/OperatorOveerloading/Demos/PhoneNumber/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dobrolyub Velinov/Downloads/OperatorOveerloading (1)/OperatorOveerloading/Demos/PhoneNumber/cmake-build-debug/CMakeFiles/rebuild_cache.dir

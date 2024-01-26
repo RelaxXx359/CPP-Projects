@@ -1,0 +1,6 @@
+# ninja log v5
+4	212	7279744644571677	CMakeFiles/PhoneNumber.dir/main.cpp.obj	e00e83a057932446
+0	236	7279744644813137	CMakeFiles/PhoneNumber.dir/PhoneNumber.cpp.obj	1bd9aca329f6cdf3
+236	294	7279744645366183	PhoneNumber.exe	3dae4074243150d
+2	241	7279747044227842	CMakeFiles/PhoneNumber.dir/PhoneNumber.cpp.obj	1bd9aca329f6cdf3
+242	341	7279747045144847	PhoneNumber.exe	3dae4074243150d

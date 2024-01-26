@@ -1,10 +1,13 @@
 # ninja log v5
 3	264	7275634553503997	CMakeFiles/CarRental.dir/Car.cpp.obj	5f843d7a7ef8b9b4
 1	276	7275468800489299	CMakeFiles/CarRental.dir/main.cpp.obj	eab9c5dc74310161
-264	359	7275470730910792	CarRental.exe	2bd75f41d9cb48da
-1	89	7275634704585697	build.ninja	a6f14891137c8aa3
-1	264	7275470729981956	CMakeFiles/CarRental.dir/LuxuryCar.cpp.obj	74f5e1f978980edd
+294	377	7275635715164260	CarRental.exe	2bd75f41d9cb48da
+1	89	7279736625083816	build.ninja	a6f14891137c8aa3
+2	294	7275635714383598	CMakeFiles/CarRental.dir/LuxuryCar.cpp.obj	74f5e1f978980edd
 0	6	0	clean	b26e0f42c341beb7
 1	221	7275469437270647	CMakeFiles/CarRental.dir/FamilyCar.cpp.obj	94e732960559bcde
-2	294	7275635714383598	CMakeFiles/CarRental.dir/LuxuryCar.cpp.obj	74f5e1f978980edd
-294	377	7275635715164260	CarRental.exe	2bd75f41d9cb48da
+6	917	7279736744122571	CMakeFiles/CarRental.dir/Car.cpp.obj	ee7539fef1f3398a
+11	987	7279736744783044	CMakeFiles/CarRental.dir/FamilyCar.cpp.obj	9f51a0c4009ac086
+3	1022	7279736745251813	CMakeFiles/CarRental.dir/main.cpp.obj	9157d17fcf1089e6
+9	1035	7279736745408172	CMakeFiles/CarRental.dir/LuxuryCar.cpp.obj	b7f19b82722db8f1
+1035	1103	7279736746033046	CarRental.exe	2bd75f41d9cb48da

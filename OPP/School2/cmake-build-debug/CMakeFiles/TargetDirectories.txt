@@ -1,3 +1,3 @@
-C:/Users/Dobrolyub Velinov/CLionProjects/Scool/cmake-build-debug/CMakeFiles/Scool.dir
-C:/Users/Dobrolyub Velinov/CLionProjects/Scool/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Dobrolyub Velinov/CLionProjects/Scool/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Dobrolyub Velinov/Cpp-projects/OPP/School2/cmake-build-debug/CMakeFiles/Scool.dir
+C:/Users/Dobrolyub Velinov/Cpp-projects/OPP/School2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dobrolyub Velinov/Cpp-projects/OPP/School2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
