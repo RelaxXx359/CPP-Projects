@@ -1,0 +1,3 @@
+C:/Users/Dobrolyub Velinov/Downloads/FileProcessing (1)/FileProcessing/Demos/Credit/cmake-build-debug/CMakeFiles/Credit.dir
+C:/Users/Dobrolyub Velinov/Downloads/FileProcessing (1)/FileProcessing/Demos/Credit/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dobrolyub Velinov/Downloads/FileProcessing (1)/FileProcessing/Demos/Credit/cmake-build-debug/CMakeFiles/rebuild_cache.dir

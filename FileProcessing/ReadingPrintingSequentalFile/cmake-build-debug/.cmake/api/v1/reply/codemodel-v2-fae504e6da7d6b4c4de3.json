@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ReadingPrintingSequentalFile",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ReadingPrintingSequentalFile::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ReadingPrintingSequentalFile-Debug-275e75a6d1c94f264e26.json",
+					"name" : "ReadingPrintingSequentalFile",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Dobrolyub Velinov/Downloads/FileProcessing (1)/FileProcessing/Demos/ReadingPrintingSequentalFile/cmake-build-debug",
+		"source" : "C:/Users/Dobrolyub Velinov/Downloads/FileProcessing (1)/FileProcessing/Demos/ReadingPrintingSequentalFile"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

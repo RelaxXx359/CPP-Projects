@@ -1,0 +1,8 @@
+# ninja log v5
+5	371	7279667538615956	CMakeFiles/TransactionProcessing.dir/main.cpp.obj	4e1fbee15a548f1c
+2	188	7279667748305923	CMakeFiles/TransactionProcessing.dir/ClientData.cpp.obj	f289b490651a9d36
+188	256	7279667748946321	TransactionProcessing.exe	f5d32c4df60cc050
+2	153	7279673123215801	CMakeFiles/TransactionProcessing.dir/ClientData.cpp.obj	f289b490651a9d36
+154	299	7279673124636851	TransactionProcessing.exe	f5d32c4df60cc050
+3	165	7279673532695687	CMakeFiles/TransactionProcessing.dir/ClientData.cpp.obj	f289b490651a9d36
+165	232	7279673533321826	TransactionProcessing.exe	f5d32c4df60cc050
