@@ -1,4 +1,19 @@
 # ninja log v5
-3	192	7279753967387552	CMakeFiles/Date.dir/main.cpp.obj	b9cd857e335e3e8
-0	219	7279753967665199	CMakeFiles/Date.dir/Date.cpp.obj	4080ac50db087b30
-222	284	7279753968275108	Date.exe	bfacbefc514a0428
+7	208	7280633491505342	CMakeFiles/Date.dir/main.cpp.obj	b9cd857e335e3e8
+2	223	7280633491656358	CMakeFiles/Date.dir/Date.cpp.obj	4080ac50db087b30
+224	291	7280633492303623	Date.exe	bfacbefc514a0428
+2	272	7280965876718204	CMakeFiles/Date.dir/main.cpp.obj	b9cd857e335e3e8
+1	217	7280965946853877	CMakeFiles/Date.dir/main.cpp.obj	b9cd857e335e3e8
+4	215	7280966070950596	CMakeFiles/Date.dir/Box.cpp.obj	20c72d2edcea16e3
+215	290	7280966071653920	Date.exe	e7ea8e15bbaa172
+2	198	7280966158391444	CMakeFiles/Date.dir/main.cpp.obj	b9cd857e335e3e8
+198	257	7280966158951831	Date.exe	e7ea8e15bbaa172
+2	215	7280966684098543	CMakeFiles/Date.dir/Box.cpp.obj	20c72d2edcea16e3
+226	291	7280966684832770	Date.exe	e7ea8e15bbaa172
+2	184	7280969018586497	CMakeFiles/Date.dir/main.cpp.obj	b9cd857e335e3e8
+5	200	7280969018746491	CMakeFiles/Date.dir/Box.cpp.obj	20c72d2edcea16e3
+200	264	7280969019346488	Date.exe	e7ea8e15bbaa172
+2	177	7280970416649627	CMakeFiles/Date.dir/Box.cpp.obj	20c72d2edcea16e3
+177	250	7280970417325789	Date.exe	e7ea8e15bbaa172
+2	224	7280971036618766	CMakeFiles/Date.dir/Box.cpp.obj	20c72d2edcea16e3
+224	291	7280971037243892	Date.exe	e7ea8e15bbaa172

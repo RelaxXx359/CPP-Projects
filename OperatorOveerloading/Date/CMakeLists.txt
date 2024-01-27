@@ -8,4 +8,6 @@ include_directories(.)
 add_executable(Date
         Date.cpp
         Date.h
-        main.cpp)
+        main.cpp
+        Box.cpp
+        Box.h)
