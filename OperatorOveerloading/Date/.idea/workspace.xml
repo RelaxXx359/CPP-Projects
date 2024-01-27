@@ -22,6 +22,12 @@
   <component name="ChangeListManager">
     <list default="true" id="c73eca8d-6f5b-4bff-af59-f19f845e17c8" name="Changes" comment="Home work">
       <change beforePath="$PROJECT_DIR$/../../CppProject" beforeDir="false" afterPath="$PROJECT_DIR$/../../CppProject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Date.dir/Box.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Date.dir/Box.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Date.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Date.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +64,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Dobrolyub Velinov/Cpp-projects/OperatorOveerloading/Date",
+    "last_opened_file_path": "C:/Users/Dobrolyub Velinov/Cpp-projects/OPP/Regtangle",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -88,7 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706272181947</updated>
       <workItem from="1706272182965" duration="764000" />
-      <workItem from="1706357820874" duration="6768000" />
+      <workItem from="1706357820874" duration="7324000" />
     </task>
     <task id="LOCAL-00001" summary="Add exercises">
       <option name="closed" value="true" />
@@ -114,7 +120,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706394279749</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Home work">
+      <option name="closed" value="true" />
+      <created>1706394344156</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706394344156</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Home work">
+      <option name="closed" value="true" />
+      <created>1706394375831</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706394375831</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

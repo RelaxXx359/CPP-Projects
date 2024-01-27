@@ -22,7 +22,6 @@ int main() {
     cout << p4.getY() << endl;
 
     Rectangle rect1 (p1,p2,p3,p4);
-
     cout << rect1.isRegtangle() << endl;
     cout << rect1.isRegtangle();
 //55

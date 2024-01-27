@@ -10,11 +10,11 @@ Point::Point(int x, int y) {
 }
 
 int Point::getX() const {
-    return x;
+    return this->x;
 }
 
 void Point::setX(int x) {
-    if (x > 0 && y <=20) {
+    if (x > 0 && x <=20) {
         Point::x = x;
     } else{
         this->x = 0;
@@ -30,6 +30,7 @@ void Point::setY(int y) {
     if(y >=0 && y<= 20) {
         Point::y = y;
     } else{
+        this->y = 0;
         cout << "Invalid coord" << endl;
 
     }

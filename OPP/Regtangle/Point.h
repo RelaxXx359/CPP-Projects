@@ -1,6 +1,3 @@
-//
-// Created by Dobrolyub Velinov on 16.1.2024 г..
-//
 #include <iostream>
 
 #ifndef REGTANGLE_POINT_H
@@ -12,11 +9,9 @@ public:
     Point(int x, int y);
 
     int getX() const;
-
-    void setX(int x);
-
     int getY() const;
 
+    void setX(int x);
     void setY(int y);
 
 private:
