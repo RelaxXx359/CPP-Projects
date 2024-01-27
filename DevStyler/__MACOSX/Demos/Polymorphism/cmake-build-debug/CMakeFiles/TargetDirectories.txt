@@ -1,0 +1,3 @@
+C:/Users/Dobrolyub Velinov/Cpp-projects/DevStyler/__MACOSX/Demos/Polymorphism/cmake-build-debug/CMakeFiles/Polymorphism.dir
+C:/Users/Dobrolyub Velinov/Cpp-projects/DevStyler/__MACOSX/Demos/Polymorphism/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dobrolyub Velinov/Cpp-projects/DevStyler/__MACOSX/Demos/Polymorphism/cmake-build-debug/CMakeFiles/rebuild_cache.dir
