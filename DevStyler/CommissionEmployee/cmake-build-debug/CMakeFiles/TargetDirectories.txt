@@ -1,3 +1,3 @@
-C:/Users/Dobrolyub Velinov/Cpp-projects/DevStyler/Demos/CommissionEmployee/cmake-build-debug/CMakeFiles/CommissionEmployee.dir
-C:/Users/Dobrolyub Velinov/Cpp-projects/DevStyler/Demos/CommissionEmployee/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Dobrolyub Velinov/Cpp-projects/DevStyler/Demos/CommissionEmployee/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Dobrolyub Velinov/Cpp-projects/DevStyler/CommissionEmployee/cmake-build-debug/CMakeFiles/CommissionEmployee.dir
+C:/Users/Dobrolyub Velinov/Cpp-projects/DevStyler/CommissionEmployee/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dobrolyub Velinov/Cpp-projects/DevStyler/CommissionEmployee/cmake-build-debug/CMakeFiles/rebuild_cache.dir
