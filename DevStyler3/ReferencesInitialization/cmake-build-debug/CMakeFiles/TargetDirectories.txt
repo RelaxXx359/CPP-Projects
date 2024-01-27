@@ -1,0 +1,3 @@
+C:/Users/Dobrolyub Velinov/Cpp-projects/DevStyler3/ReferencesInitialization/cmake-build-debug/CMakeFiles/ReferencesInitialization.dir
+C:/Users/Dobrolyub Velinov/Cpp-projects/DevStyler3/ReferencesInitialization/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dobrolyub Velinov/Cpp-projects/DevStyler3/ReferencesInitialization/cmake-build-debug/CMakeFiles/rebuild_cache.dir

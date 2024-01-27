@@ -1,8 +1,0 @@
-# ninja log v5
-71	269	7272374252765591	CMakeFiles/Demos__3_.dir/Demos/CrapsSimulation/main.cpp.obj	54c2e094027f89a8
-68	270	7272374252775599	CMakeFiles/Demos__3_.dir/Demos/ComparePassBy/main.cpp.obj	fbb4020986186e28
-63	274	7272374465224809	CMakeFiles/Demos__3_.dir/Demos/GradeBookMaxGrades/GradeBook.cpp.obj	93d5aacb49981252
-67	274	7272374465234811	CMakeFiles/Demos__3_.dir/Demos/DefaultArguments/main.cpp.obj	8c4095cd9d390b7f
-0	8	0	clean	b26e0f42c341beb7
-84	281	7272374652285046	CMakeFiles/Demos__3_.dir/Demos/ComparePassBy/main.cpp.obj	fbb4020986186e28
-82	292	7272374652384954	CMakeFiles/Demos__3_.dir/Demos/CrapsSimulation/main.cpp.obj	54c2e094027f89a8
