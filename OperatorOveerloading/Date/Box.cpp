@@ -14,7 +14,7 @@ Box operator+(Box box1, Box box2) {
 }
 
 void Box::print() {
-    std::cout << "\nSize box . Width: " << this->getWidth() << ", Height: " << getLength() << ", Length: "
+    std::cout << "\nSize box. Width: " << this->getWidth() << ", Height: " << getLength() << ", Length: "
               << this->getHeight() << std::endl;
 }
 
