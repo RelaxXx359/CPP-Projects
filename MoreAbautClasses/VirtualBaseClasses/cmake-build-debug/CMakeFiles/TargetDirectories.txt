@@ -1,0 +1,3 @@
+C:/Users/Dobrolyub Velinov/Downloads/MoreAboutClasses/MoreAboutClasses/Demos/VirtualBaseClasses/cmake-build-debug/CMakeFiles/VirtualBaseClasses.dir
+C:/Users/Dobrolyub Velinov/Downloads/MoreAboutClasses/MoreAboutClasses/Demos/VirtualBaseClasses/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dobrolyub Velinov/Downloads/MoreAboutClasses/MoreAboutClasses/Demos/VirtualBaseClasses/cmake-build-debug/CMakeFiles/rebuild_cache.dir

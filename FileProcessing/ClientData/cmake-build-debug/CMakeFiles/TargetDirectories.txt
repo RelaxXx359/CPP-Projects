@@ -1,0 +1,3 @@
+C:/Users/Dobrolyub Velinov/Cpp-projects/FileProcessing/ClientData/cmake-build-debug/CMakeFiles/ClientData.dir
+C:/Users/Dobrolyub Velinov/Cpp-projects/FileProcessing/ClientData/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dobrolyub Velinov/Cpp-projects/FileProcessing/ClientData/cmake-build-debug/CMakeFiles/rebuild_cache.dir
