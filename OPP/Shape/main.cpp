@@ -12,7 +12,7 @@ int main() {
     Shape *sPtr1 = new TwoShape(30);
     Shape *sPtr2 = new ThreeDShape(15, 20);
     Shape *sPtr3 = new Rectangles(20, 25, 10, "Rectangle", 'f',20);
-    Shape *sPtr4 = new Circles(13, 2, 6, "Circles", 'f');
+    Shape *sPtr4 = new Circles(13, 5,2, 6, "Circles", 'f');
     Shape *sPtr5 = new Square(13, 2, 6, "Square", 'f', 10);
 
     vector<Shape *> myShapes;

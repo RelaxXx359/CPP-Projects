@@ -8,11 +8,10 @@ class Square : public TwoShape {
 public:
     Square(int i, int position, int size, const string &shape, char symbol, int sideC);
 
-    int getSideC();
     void setSideC(int sideC);
+    int getSideC();
 
     void print();
-
     double getArea();
 
 private:

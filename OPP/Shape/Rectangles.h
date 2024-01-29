@@ -4,16 +4,13 @@
 
 class Rectangles: public TwoShape{
 public:
-    Rectangles(int, int position, int size, const string &shape, char symbol, int sideB);
+    Rectangles(int, int position, int size, string shape, char symbol, int sideB);
 
-
-    int getSideB() const;
-
+    int getSideB();
     void setSideB(int sideB);
 
     void print();
     //virtual void print();
-
     double getArea();
     //virtual double getArea();
 private:

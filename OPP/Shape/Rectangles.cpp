@@ -3,11 +3,10 @@
 #include "TwoDShape.h"
 #include "Rectangles.h"
 
-Rectangles::Rectangles(int a, int position, int size, const std::__cxx11::basic_string<char> &shape, char symbol, int sideB)
-                                                        // std::string shape
-        : TwoShape(a), sideB(sideB){}
+Rectangles::Rectangles(int sideA, int position, int size, string shape, char symbol, int sideB)
+: TwoShape(sideA), sideB(sideB) {}
 
-int Rectangles::getSideB() const {
+int Rectangles::getSideB() {
     return sideB;
 }
 void Rectangles::setSideB(int sideB) {
@@ -19,6 +18,7 @@ void Rectangles::print() {
     cout << "Rectangle" << endl;
     //TwoShape::print();
 }
+
 double Rectangles::getArea() {
     cout << "Rectangle area" << endl;
     return getSideB() * Shape::getA();    //!!!!!!!!!!

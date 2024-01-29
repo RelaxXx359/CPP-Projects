@@ -18,7 +18,7 @@ double Shape::getArea() {
 void Shape::setA(int sideA) {
     Shape::sideA = sideA;
 }
-int Shape::getA() const {
+int Shape::getA() {
     return sideA;
 }
 

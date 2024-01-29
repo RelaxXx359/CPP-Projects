@@ -3,12 +3,12 @@
 #include "TwoDShape.h"
 #include "Square.h"
 
-Square::Square(int a, int position, int size, const std::__cxx11::basic_string<char> &shape, char symbol, int sideC)
-: TwoShape(a), sideC(sideC){}
+Square::Square(int sideA, int position, int size, const string &shape, char symbol, int sideC)
+: TwoShape(sideA), sideC(sideC) {}
 
 
 void Square::print() {
-    cout << "Square" << endl;
+    cout <<"Square" << endl;
 }
 double Square::getArea() {
     cout << "Square area" << endl;
