@@ -1,0 +1,9 @@
+# ninja log v5
+1	207	7279740709207804	CMakeFiles/CommissionEmployee.dir/BasePlusCommissionEmployee.cpp.obj	2fed5067cde6954
+4	231	7279740709448959	CMakeFiles/CommissionEmployee.dir/CommissionEmployee.cpp.obj	b2ffc7b328dd4c23
+251	316	7279740710255919	CommissionEmployee.exe	e3812b17bbafb05d
+14	250	7279740709649059	CMakeFiles/CommissionEmployee.dir/main.cpp.obj	74c97c0f859af955
+2	956	7280570553651230	CMakeFiles/CommissionEmployee.dir/CommissionEmployee.cpp.obj	804548d342e53d45
+7	961	7280570553711243	CMakeFiles/CommissionEmployee.dir/BasePlusCommissionEmployee.cpp.obj	d45f4b1d36df9b9f
+11	1005	7280570554151198	CMakeFiles/CommissionEmployee.dir/main.cpp.obj	9050ac6f38591f11
+1005	1072	7280570554791318	CommissionEmployee.exe	e3812b17bbafb05d
