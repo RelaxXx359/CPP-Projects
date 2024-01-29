@@ -2,7 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=relaxxx359&label=Profile%20views&color=0e75b6&style=flat" alt="relaxxx359" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=relaxxx359" alt="relaxxx359" /></a> </p>
 
 - 📫 How to reach me **dobrolubvelinov@gmail.com**
 
