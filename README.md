@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dobrolyub Velinov</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=relaxxx359&label=Profile%20views&color=0e75b6&style=flat" alt="relaxxx359" /> </p>
-
 
 - 📫 How to reach me **dobrolubvelinov@gmail.com**
 
