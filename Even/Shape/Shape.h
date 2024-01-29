@@ -6,7 +6,6 @@
 class Shape {
 public:
     Shape(double sideA);
-
     virtual void draw();
 
     void setSideA(double);
