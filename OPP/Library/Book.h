@@ -1,43 +1,31 @@
-
 #ifndef LIBRARY_BOOK_H
 #define LIBRARY_BOOK_H
+
 #include <iostream>
-#include <string>
-#include "Autor.h"
-#include "Library.h"
+#include "Author.h"
 
-using namespace std;
-
-class Book{
+class Book {
 public:
-    Book(string ,string, int, Autor);
+    Book(string, string, int, Author);
 
-    void printBook();
-    basic_string<char> getTitle();
+    void setBookName(string);
+    void setGenre(string);
+    void setYear(int);
 
-    void setTitle( string title);
+    string getBookName();
+    string getGerne();
+    int getYear();
 
-     string getGenre();
+    void print();
 
-    void setGenre( string genre);
-
-    int getYearPublication() ;
-
-    void setYearPublication(int yearPublication);
-
-    Autor getAutor();
-
-    void setAutor(Autor autor);
 
 private:
-
-    string title;
-    string genre;
-    int yearPublication;
-    Autor autor;
-
-
-
+    string bookName;
+    string gerne;
+    int year;
+    Author autor;
 
 };
+
+
 #endif //LIBRARY_BOOK_H
