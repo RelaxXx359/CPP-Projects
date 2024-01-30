@@ -8,7 +8,6 @@ int main() {
     cout << p1.getX() << " ";
     cout << p1.getY() << endl;
 
-
     Point p2(15,5);
     cout << p2.getX() << " ";
     cout << p2.getY() << endl;
@@ -24,6 +23,7 @@ int main() {
     Rectangle rect1 (p1,p2,p3,p4);
     cout << rect1.isRegtangle() << endl;
     cout << rect1.isRegtangle();
+
 //55
 //1515
 //55

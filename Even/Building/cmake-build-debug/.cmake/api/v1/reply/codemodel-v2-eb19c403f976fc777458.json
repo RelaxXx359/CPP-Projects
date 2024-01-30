@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "Date",
+					"name" : "Building",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "Date::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Date-Debug-fae49adf2722292247ee.json",
-					"name" : "Date",
+					"id" : "Building::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Building-Debug-44a6dffbfc91adf527a5.json",
+					"name" : "Building",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Dobrolyub Velinov/Cpp-projects/OperatorOveerloading/Date/cmake-build-debug",
-		"source" : "C:/Users/Dobrolyub Velinov/Cpp-projects/OperatorOveerloading/Date"
+		"build" : "C:/Users/Dobrolyub Velinov/CPP-Projects/Even/Building/cmake-build-debug",
+		"source" : "C:/Users/Dobrolyub Velinov/CPP-Projects/Even/Building"
 	},
 	"version" : 
 	{
