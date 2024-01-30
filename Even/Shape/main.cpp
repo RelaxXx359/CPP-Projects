@@ -10,7 +10,7 @@ int main() {
     Shape *rPtr = new Regtangle(10, 15.5);
     Shape *cPtr = new Circle(20);
 
-    sPtr->draw();
+    sPtr->draw() ;
     rPtr->draw();
     cPtr->draw();
 
