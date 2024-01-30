@@ -1,8 +1,0 @@
-# ninja log v5
-0	194	7279706185939432	CMakeFiles/MultipleInheritance.dir/main.cpp.obj	abe034cff2a63ea7
-6	222	7279706186203033	CMakeFiles/MultipleInheritance.dir/Derived.cpp.obj	e612b60ac3a880e5
-222	284	7279706186818206	MultipleInheritance.exe	a9e674aeb0679de8
-2	305	7279711794662430	CMakeFiles/MultipleInheritance.dir/Derived.cpp.obj	e612b60ac3a880e5
-305	380	7279711795392420	MultipleInheritance.exe	a9e674aeb0679de8
-2	189	7279711868184660	CMakeFiles/MultipleInheritance.dir/Derived.cpp.obj	e612b60ac3a880e5
-189	245	7279711868716691	MultipleInheritance.exe	a9e674aeb0679de8

@@ -1,3 +1,0 @@
-C:/Users/Dobrolyub Velinov/Downloads/FileProcessing (1)/FileProcessing/Demos/WrittingRandomAccessFile/cmake-build-debug/CMakeFiles/WrittingRandomAccessFile.dir
-C:/Users/Dobrolyub Velinov/Downloads/FileProcessing (1)/FileProcessing/Demos/WrittingRandomAccessFile/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Dobrolyub Velinov/Downloads/FileProcessing (1)/FileProcessing/Demos/WrittingRandomAccessFile/cmake-build-debug/CMakeFiles/rebuild_cache.dir

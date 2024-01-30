@@ -1,3 +1,0 @@
-C:/Users/Dobrolyub Velinov/Cpp-projects/DevStyler3/RandomDie/cmake-build-debug/CMakeFiles/RandomDie.dir
-C:/Users/Dobrolyub Velinov/Cpp-projects/DevStyler3/RandomDie/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Dobrolyub Velinov/Cpp-projects/DevStyler3/RandomDie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
