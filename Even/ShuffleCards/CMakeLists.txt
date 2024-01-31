@@ -5,4 +5,6 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(Cards main.cpp
         PlayingCard.h
-        PlayingCard.cpp)
+        PlayingCard.cpp
+        DeckOfCards.h
+        DeckOfCards.cpp)

@@ -61,6 +61,12 @@ build CMakeFiles/Cards.dir/PlayingCard.cpp.obj: CXX_COMPILER__Cards_unscanned_De
   OBJECT_DIR = CMakeFiles\Cards.dir
   OBJECT_FILE_DIR = CMakeFiles\Cards.dir
 
+build CMakeFiles/Cards.dir/DeckOfCards.cpp.obj: CXX_COMPILER__Cards_unscanned_Debug C$:/Users/Dobrolyub$ Velinov/CPP-Projects/Even/ShuffleCards/DeckOfCards.cpp || cmake_object_order_depends_target_Cards
+  DEP_FILE = CMakeFiles\Cards.dir\DeckOfCards.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Cards.dir
+  OBJECT_FILE_DIR = CMakeFiles\Cards.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Cards
@@ -69,7 +75,7 @@ build CMakeFiles/Cards.dir/PlayingCard.cpp.obj: CXX_COMPILER__Cards_unscanned_De
 #############################################
 # Link the executable Cards.exe
 
-build Cards.exe: CXX_EXECUTABLE_LINKER__Cards_Debug CMakeFiles/Cards.dir/main.cpp.obj CMakeFiles/Cards.dir/PlayingCard.cpp.obj
+build Cards.exe: CXX_EXECUTABLE_LINKER__Cards_Debug CMakeFiles/Cards.dir/main.cpp.obj CMakeFiles/Cards.dir/PlayingCard.cpp.obj CMakeFiles/Cards.dir/DeckOfCards.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Cards.dir

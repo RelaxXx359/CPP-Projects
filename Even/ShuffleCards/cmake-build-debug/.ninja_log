@@ -1,0 +1,11 @@
+# ninja log v5
+7	336	7284352939604339	CMakeFiles/Cards.dir/PlayingCard.cpp.obj	1cbce0ff498920b4
+0	342	7284352939674241	CMakeFiles/Cards.dir/main.cpp.obj	8a5506aa59f5ebfc
+4	373	7284352939984308	CMakeFiles/Cards.dir/DeckOfCards.cpp.obj	722130beac3ce0c3
+373	465	7284352940880262	Cards.exe	85e327fd87525257
+2	308	7284353736833284	CMakeFiles/Cards.dir/DeckOfCards.cpp.obj	722130beac3ce0c3
+309	398	7284353737713391	Cards.exe	85e327fd87525257
+2	312	7284356640365663	CMakeFiles/Cards.dir/DeckOfCards.cpp.obj	722130beac3ce0c3
+312	386	7284356641059118	Cards.exe	85e327fd87525257
+2	321	7284356966584718	CMakeFiles/Cards.dir/main.cpp.obj	8a5506aa59f5ebfc
+331	411	7284356967470666	Cards.exe	85e327fd87525257

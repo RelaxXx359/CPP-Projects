@@ -8,6 +8,7 @@ int main() {
 
     DeckOfCards  deck;
     deck.createDesk();
+    std::cout << std::endl;
     deck.showDeck();
 
 
