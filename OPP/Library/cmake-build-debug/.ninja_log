@@ -1,11 +1,11 @@
 # ninja log v5
-4	983	7280544014533310	CMakeFiles/Library.dir/Book.cpp.obj	95ab8c9882db5b1
-1	1014	7280544014802437	CMakeFiles/Library.dir/main.cpp.obj	9e2baa4152d988ea
-12	1026	7280544014959788	CMakeFiles/Library.dir/Library.cpp.obj	ac8721ab8a2114d0
-2	242	7280544107431654	CMakeFiles/Library.dir/Author.cpp.obj	dc862ac8c93266a4
-2	295	7280544836343412	CMakeFiles/Library.dir/Library.cpp.obj	ac8721ab8a2114d0
-295	365	7280544836965550	Library.exe	784f084d5dca9d87
 2	281	7280546031525362	CMakeFiles/Library.dir/Book.cpp.obj	95ab8c9882db5b1
-281	367	7280546032424666	Library.exe	784f084d5dca9d87
 2	324	7280546552139599	CMakeFiles/Library.dir/main.cpp.obj	9e2baa4152d988ea
+2	295	7280544836343412	CMakeFiles/Library.dir/Library.cpp.obj	ac8721ab8a2114d0
+2	242	7280544107431654	CMakeFiles/Library.dir/Author.cpp.obj	dc862ac8c93266a4
 328	404	7280546552909990	Library.exe	784f084d5dca9d87
+22	913	7284239622982391	CMakeFiles/Library.dir/Author.cpp.obj	bea533a57bf48b49
+2	957	7284239623358886	CMakeFiles/Library.dir/main.cpp.obj	52adb8a91fc3b12e
+26	977	7284239623623511	CMakeFiles/Library.dir/Library.cpp.obj	4afa2a09f381bea9
+8	979	7284239623643517	CMakeFiles/Library.dir/Book.cpp.obj	11c2048e4adce9c
+979	1049	7284239624313504	Library.exe	784f084d5dca9d87

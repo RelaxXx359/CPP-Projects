@@ -21,7 +21,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="634846d0-bb5b-43b6-a5a9-91d1f9d44178" name="Changes" comment="New task">
-      <change beforePath="$PROJECT_DIR$/../CppProject" beforeDir="false" afterPath="$PROJECT_DIR$/../CppProject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Even/LibraryManageSystem/Member.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Even/LibraryManageSystem/Member.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Even/LibraryManageSystem/Task.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Basic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Basic/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Even/LibraryManageSystem/Book.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Even/LibraryManageSystem/Book.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Even/LibraryManageSystem/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Even/LibraryManageSystem/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Even/LibraryManageSystem/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-dc84bc67cf19b92e30ce.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Even/LibraryManageSystem/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-2233a073d1788e91bb4e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Even/LibraryManageSystem/cmake-build-debug/.cmake/api/v1/reply/index-2024-01-31T14-18-18-0489.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Even/LibraryManageSystem/cmake-build-debug/.cmake/api/v1/reply/target-LibraryManageSystem-Debug-81b5818d775edf5db2c0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Even/LibraryManageSystem/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../Even/LibraryManageSystem/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Even/LibraryManageSystem/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Even/LibraryManageSystem/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Even/LibraryManageSystem/cmake-build-debug/CMakeFiles/LibraryManageSystem.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Even/LibraryManageSystem/cmake-build-debug/CMakeFiles/LibraryManageSystem.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Even/LibraryManageSystem/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Even/LibraryManageSystem/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Even/LibraryManageSystem/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Even/LibraryManageSystem/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Even/LibraryManageSystem/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../Even/LibraryManageSystem/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Even/LibraryManageSystem/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Even/LibraryManageSystem/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +49,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
@@ -62,7 +78,7 @@
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Dobrolyub Velinov/Cpp-projects/DevStyler3/GradeBookMaxGrades",
+    "last_opened_file_path": "C:/Users/Dobrolyub Velinov/CPP-Projects/OPP/OnlineShop",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,6 +88,11 @@
   }
 }]]></component>
   <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Library" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Library" TARGET_NAME="Library" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Library" RUN_TARGET_NAME="Library">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -89,6 +110,7 @@
       <workItem from="1706348047116" duration="4591000" />
       <workItem from="1706355515636" duration="5000" />
       <workItem from="1706355563977" duration="55000" />
+      <workItem from="1706720758938" duration="37000" />
     </task>
     <task id="LOCAL-00001" summary="New task">
       <option name="closed" value="true" />

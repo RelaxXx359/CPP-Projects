@@ -3,34 +3,23 @@
 #include <string>
 
 using namespace std;
+
 Car::Car(string brand, string model, string type, string color, string chassisNumber,
-         string numberCar, double consumptione)
-        : brand(brand),
-          model(model),
-          type(type),
-          color(color),
-          chassisNumber(chassisNumber),
-          numberCar(numberCar),
-          consumption(consumptione)
-          {}
-
-void Car::printCar() {
-    cout << getBrand() << " " << getModel() << " " << getType() << " " << getColor()
-    << " " << getChassisN() << " " << getNumberC() << " " << getConsumption() << " " << endl;
-
-    cout << this->brand << " " << this->type;
+         string numberCar, double consumptione, int tax) {
+    setBrand(brand);
+    setModel(model);
+    setType(type);
+    setColor(color);
+    setChassisN(chassisNumber);
+    setNumberC(numberCar);
+    setConsumption(consumptione);
+    setTax(tax);
 }
 
-
-//void Car::printCar() {
-//    cout << getBrand();
-//    cout << getModel();
-//    cout << getType();
-//    cout << getColor();
-//    cout << getChassisN();
-//    cout << getNumberC();
-//    cout << getConsumption();
-//}
+double Car::calculatePrice() {
+    std::cout << "Price is: ";
+    return 0.0;
+}
 
 
 string Car::getBrand() {

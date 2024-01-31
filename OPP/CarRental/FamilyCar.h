@@ -7,19 +7,12 @@
 using namespace std;
 class FamilyCar: public Car{
 public:
-    FamilyCar(string, string, string, string, string , string, double = 0.0, double = 0.0, double = 0.0);
+    FamilyCar(string, string, string, string, string , string, double = 0.0, int = 0);
 
-    double getTaxRent();
-    void setTaxRent(double taxRent);
-    void setCoefficient(double coefficient);
-    double getCoefficient();
-
-    [[maybe_unused]] double calculatePrint(double distance);
-
+    double calculatePrice() override;
 
 private:
-    double taxRent;
-    double coefficient;
+
 };
 
 

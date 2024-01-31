@@ -4,54 +4,61 @@
 
 using namespace std;
 
-LuxuryCar::LuxuryCar(string brand, string model, string type, string color, string chassisNumber, string numberCar, double consumption,double tax, double extras)
-: Car(brand, model, type, color, chassisNumber, numberCar, consumption), taxLuxCar(tax), extras(extras){
-    setTaxLuxCar(tax);
-    setExtras(extras);
-}
+LuxuryCar::LuxuryCar(const string &string, const std::string &string1, const std::string &string2, const std::string &string3,
+                     const std::string &string4, const std::string &string5, double d, int i)
+                     : Car(string, string1, string2,string3, string4, string5, d,i) {}
 
-[[maybe_unused]]double LuxuryCar::calculatePrintLux(double distance) const {
+double calculateLuxTax() {
+    int luxTax = 0;
 
-//    double coefficentLux = (distance< 200) ? 0.6 : 0.4;
+    std::cout << " MENU " << std::endl;
+    std::cout << "Champagne - 100lv. - press 1" << std::endl;
+    std::cout << "Wine - 50lv. - press 2" << std::endl;
+    std::cout << "Chocolate - 40lv. - press 3" << std::endl;
+    std::cin >> luxTax;
 
-
-    if (distance < 200) {
-        cout << "Rental cost for LuxuryCar (300 km): $";
-        distance = 0.6;
+    if (luxTax == 1) {
+        luxTax = 100;
+    } else if (luxTax == 2) {
+        luxTax = 50;
+    } else if (luxTax == 3) {
+        luxTax = 40;
     } else {
-        cout << "Rental cost for LuxuryCar (600 km): $";
-        distance = 0.4;
+        std::cout << "Invalid choise. " << std::endl;
     }
 
+    return luxTax;
+}
 
-//    double extraCoefficient = 1.0;
-//    if ("champagne") {
-//        extraCoefficient = 1.0;
-//    } else if ("wine") {
-//        extraCoefficient = 1.05;
-//    } else if ("chocolate") {
-//        extraCoefficient = 1.02;
+
+double calculateKmTax(int dayTax) {
+
+
+    double distance;
+    cin >> distance;
+
+    double tax = (distance < 200) ? 0.6 : 0.4;
+
+//    if (distance < 200) {
+//        cout << "Rental cost for LuxuryCar (300 km): $";
+//        tax = 0.6;
+//    } else {
+//        cout << "Rental cost for LuxuryCar (600 km): $";
+//        tax = 0.4;
 //    }
+    return tax;
+}
 
-    return taxLuxCar * distance * extras;
+double LuxuryCar::calculatePrice() {
+    std::cout << "For car " << this->getBrand() << ". ";
+    int dayTax = this->getTax();
+    int luxTax = calculateLuxTax();
+    double kmTax = calculateKmTax(dayTax);
+
+    return dayTax * kmTax * luxTax;
 }
 
 
 
-void LuxuryCar::setTaxLuxCar(double taxLux) {
-    this->setTaxLuxCar(taxLux);
-}
-
-void LuxuryCar::setExtras(double extras) {
-    this->setExtras(extras);
-}
-
-double LuxuryCar::getTaxLuxCar() {
-    return taxLuxCar;
-}
-
-double LuxuryCar::getExtras() {
-    return extras;
-}
 
 

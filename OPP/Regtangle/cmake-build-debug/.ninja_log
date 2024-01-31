@@ -1,13 +1,9 @@
 # ninja log v5
-2	210	7271064955106533	CMakeFiles/Regtangle.dir/main.cpp.obj	88793ace95ef62f8
-3	1147	7271010849177953	CMakeFiles/Regtangle.dir/Point.cpp.obj	cf0e7fb331a1c775
-210	272	7271064955706578	Regtangle.exe	2d652cda8a293797
-11	227	7271064884396757	CMakeFiles/Regtangle.dir/Rectangle.cpp.obj	ec13141cd4383bf7
-9	220	7280980623716224	CMakeFiles/Regtangle.dir/Point.cpp.obj	9d2a40f5545a80b9
-11	229	7280980623816821	CMakeFiles/Regtangle.dir/Rectangle.cpp.obj	48500ba17906d97a
-2	229	7280980623816821	CMakeFiles/Regtangle.dir/main.cpp.obj	58f0ab0d20316782
-230	282	7280980624296816	Regtangle.exe	2d652cda8a293797
-5	238	7280992464561669	CMakeFiles/Regtangle.dir/Point.cpp.obj	9d2a40f5545a80b9
 2	245	7280992464624737	CMakeFiles/Regtangle.dir/main.cpp.obj	58f0ab0d20316782
-7	252	7280992464694754	CMakeFiles/Regtangle.dir/Rectangle.cpp.obj	48500ba17906d97a
+5	238	7280992464561669	CMakeFiles/Regtangle.dir/Point.cpp.obj	9d2a40f5545a80b9
 252	342	7280992465554722	Regtangle.exe	2d652cda8a293797
+7	252	7280992464694754	CMakeFiles/Regtangle.dir/Rectangle.cpp.obj	48500ba17906d97a
+2	546	7284240615387264	CMakeFiles/Regtangle.dir/main.cpp.obj	d8e61bd5d46484b5
+9	550	7284240615447261	CMakeFiles/Regtangle.dir/Point.cpp.obj	7b45fe945196141f
+12	558	7284240615537375	CMakeFiles/Regtangle.dir/Rectangle.cpp.obj	f67794040e2d78c
+558	629	7284240616217258	Regtangle.exe	2d652cda8a293797

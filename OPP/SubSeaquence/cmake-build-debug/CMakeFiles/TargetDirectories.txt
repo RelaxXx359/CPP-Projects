@@ -1,3 +1,3 @@
-C:/Users/Dobrolyub Velinov/CLionProjects/SubSeaquence/cmake-build-debug/CMakeFiles/SubSeaquence.dir
-C:/Users/Dobrolyub Velinov/CLionProjects/SubSeaquence/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Dobrolyub Velinov/CLionProjects/SubSeaquence/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Dobrolyub Velinov/CPP-Projects/OPP/SubSeaquence/cmake-build-debug/CMakeFiles/SubSeaquence.dir
+C:/Users/Dobrolyub Velinov/CPP-Projects/OPP/SubSeaquence/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dobrolyub Velinov/CPP-Projects/OPP/SubSeaquence/cmake-build-debug/CMakeFiles/rebuild_cache.dir

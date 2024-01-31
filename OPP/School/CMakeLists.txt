@@ -11,4 +11,5 @@ add_executable(School main.cpp
         Teachers.cpp
         Class.cpp
         Discipline.cpp
-        School.cpp)
+        School.cpp
+        Task.h)

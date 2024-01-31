@@ -7,3 +7,10 @@
 16	368	7275616072632459	CMakeFiles/Scool.dir/School.cpp.obj	50ca30730b69efaf
 23	351	7275616072462461	CMakeFiles/Scool.dir/Class.cpp.obj	a7623a47d9ada940
 25	280	7275616071757305	CMakeFiles/Scool.dir/Discipline.cpp.obj	d6621fb91c395604
+11	1247	7284241252540055	CMakeFiles/Scool.dir/Student.cpp.obj	f4dbf2f7f2c38f13
+23	1256	7284241252650060	CMakeFiles/Scool.dir/Teacher.cpp.obj	e27f2cd830b6a49f
+25	1270	7284241252790057	CMakeFiles/Scool.dir/Discipline.cpp.obj	1a42eded7637574d
+27	1325	7284241253329920	CMakeFiles/Scool.dir/Class.cpp.obj	1beb625f77384e4d
+28	1333	7284241253418781	CMakeFiles/Scool.dir/School.cpp.obj	6826983b1c115fb6
+2	1381	7284241253889648	CMakeFiles/Scool.dir/main.cpp.obj	b79e1b82130c71bd
+1381	1462	7284241254689656	Scool.exe	b9ea729236463afd

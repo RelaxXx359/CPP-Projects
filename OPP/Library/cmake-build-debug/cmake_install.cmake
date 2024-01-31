@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Dobrolyub Velinov/Cpp-projects/Library
+# Install script for directory: C:/Users/Dobrolyub Velinov/CPP-Projects/OPP/Library
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Dobrolyub Velinov/Cpp-projects/Library/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Dobrolyub Velinov/CPP-Projects/OPP/Library/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

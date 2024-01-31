@@ -7,7 +7,7 @@ using namespace std;
 
 class Car {
 public:
-    Car(string, string, string, string, string, string, double = 0.0);
+    Car(string, string, string, string, string, string, double = 0.0, int = 0);
 
 
     string getBrand();
@@ -31,9 +31,12 @@ public:
     double getConsumption();
     void setConsumption(double consum);
 
+    int getTax();
+    void setTax(int tax);
 
 
-    void printCar();
+
+    virtual double calculatePrice();
 
 private:
     string brand;
@@ -43,6 +46,7 @@ private:
     string chassisNumber;
     string numberCar;
     double consumption;
+    int taxPerDay;
 };
 
 
