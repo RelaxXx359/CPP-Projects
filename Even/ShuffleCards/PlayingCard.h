@@ -9,19 +9,22 @@ using namespace std;
 class PlayingCard {
 public:
 
-    PlayingCard(string, string);
+    PlayingCard(char, string);
 
-    void setType(string);
+    void setType(char);
     void setSuit(string);
 
-    string getType();
+    char getType();
     string getSuit();
 
     void print();
 
+    void push_back(PlayingCard card);
+
+    size_t size();
 
 private:
-    string type;
+    char type;
     string suit;
 
 };

@@ -1,37 +1,41 @@
 #include "PlayingCard.h"
+
 // A, K ,Q , J, 10, 9, 8, 7, 6, 5, 4, 3, 2
-PlayingCard::PlayingCard(string type, std::string suit) : type(type), suit(suit) {}
+PlayingCard::PlayingCard(char type, std::string suit) : type(type), suit(suit) {}
 
-void PlayingCard::setType(string type) {
+void PlayingCard::setType(char type) {
+    if (type != 'A' && type != 'K' && type != 'Q' && type != 'J' && type != 'T' && type != '9' && type != '8' &&
+        type != '7' && type != '6' && type != '5' && type != '4' && type != '3' && type != '2') {
+        if (type != 'A' && type != 'K' && type != 'Q' && type != 'J' && type != 'T' && type != '9' && type != '8' &&
+            type != '7' && type != '6' && type != '5' && type != '4' && type != '3' && type != '2') {
+            std::cout << "Enter card (A, K ,Q , J, T, 9, 8, 7, 6, 5, 4, 3, 2): " << std::endl;
+        }
 
-    switch (type) {
-        case 1: "A";
-
-        case 2: "K";
-        case 3: "Q";
-        case 4: "J";
-        case 5: "10";
-        case 6: "9";
-        case 6: "8";
-        case 6: "7";
-        case 6: "6";
-        case 6: "5";
-        case 6: "4";
-        case 6: "3";
-        case 6: "2";
     }
     this->type = type;
 }
-
-
 void PlayingCard::setSuit(std::string suit) {
+    if (suit != "spades" && suit != "diamonds" && suit != "hearts" && suit != "clubs") {
+        if (suit != "spades" && suit != "diamonds" && suit != "hearts" && suit != "clubs") {
+            std::cout << "Enter suit (Spades, Diamonds, Hearts, Clubs): " << std::endl;
+            std::cin >> suit;
+        }
+    }
     this->suit = suit;
 }
 
-
-string PlayingCard::getType() {
-    return type;
+char PlayingCard::getType() {
+    return this->type;
 }
+
 string PlayingCard::getSuit() {
-    return suit;
+    return this->suit;
+}
+
+void PlayingCard::push_back(PlayingCard card) {
+
+}
+
+size_t PlayingCard::size() {
+    return 0;
 }
