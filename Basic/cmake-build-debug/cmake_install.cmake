@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/Dobrolyub Velinov/CLionProjects/EGT
+# Install script for directory: C:/Users/Dobrolyub Velinov/CPP-Projects/Basic
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/untitled1")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Basic")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Dobrolyub Velinov/CLionProjects/EGT/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Dobrolyub Velinov/CPP-Projects/Basic/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
