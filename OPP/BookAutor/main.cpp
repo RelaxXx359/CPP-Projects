@@ -28,7 +28,7 @@ void showHomeMenu(){
     cout << "3. lookup books by name" << endl <<"4. search books by author"<< endl <<" ~ to exit: ";
 }
 
-string toLower(string str){          //COPY FOR USE ANYWHERE TOLOWER STRINGS
+string toLower(string str){
     string lStr;
     for (int i = 0; i < str.length(); i++){
         lStr+=char(tolower(str[i]));
@@ -39,8 +39,7 @@ string toLower(string str){          //COPY FOR USE ANYWHERE TOLOWER STRINGS
 int main(){
     vector<Author *> authors;
     vector<Book *> books;
-    // string bkName, authFrstName, authLastName, authNationality, genre; //for input better sep into function
-    // int year;
+
     Author brandoSando("Brandon", "Sanderson", "American");
     Book* b1Ptr = new Book("The Way of Kings", brandoSando, "Fantasy", 2020 );
     b1Ptr->printBook();
@@ -49,24 +48,24 @@ int main(){
 
     string userInput;
     showHomeMenu();
-    // cin.ignore();
+
     getline(cin, userInput);
     while (userInput != "~"){
         int choice = stoi(userInput);
         string srchTerm, lSrchTrm, bookName, authorName, lBookName, lAuthorName;
-        // added extra lStrings jsut to see the change to lower, we can always string = toLower(string); and use less vars
+
         bool bkFound = false;
-        if (choice == 1){ //awaits inp for book data from user
+        if (choice == 1){
             Book* bkPtr = EnterBookData();
             books.push_back(bkPtr);
             books.back()->printBook();
         }
-        if (choice ==2){ // displays whole catalog
+        if (choice ==2){
             for (int i = 0; i < books.size(); i++){
                 books.at(i)->printBook();
             }
         }
-        if (choice == 3){ //awaits search term to search for book in catalog
+        if (choice == 3){
             cout << "Enter book name or part of name: ";
             getline(cin, srchTerm);
             lSrchTrm = toLower(srchTerm);
@@ -83,7 +82,7 @@ int main(){
                 cout << "Book not found in this catalog." << endl;
             }
         }
-        if (choice == 4){ //awaits inp for author name to display books found under that name
+        if (choice == 4){
             cout << "Enter author name: ";
             getline(cin, srchTerm);
             lSrchTrm = toLower(srchTerm);
@@ -93,8 +92,7 @@ int main(){
                 lAuthorName = toLower(authorName);
                 if (lAuthorName.find(lSrchTrm) < 1000){
                     cout << "Book(s) found by author: ";
-                    // cout << bookName << endl;   //or
-                    books.at(i)->printBook();  //full info of book if not just title
+                    books.at(i)->printBook();
                     bkFound = true;
                 }
             }
