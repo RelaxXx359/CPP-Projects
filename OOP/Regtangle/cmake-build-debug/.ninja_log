@@ -1,9 +1,5 @@
 # ninja log v5
-2	245	7280992464624737	CMakeFiles/Regtangle.dir/main.cpp.obj	58f0ab0d20316782
-5	238	7280992464561669	CMakeFiles/Regtangle.dir/Point.cpp.obj	9d2a40f5545a80b9
-252	342	7280992465554722	Regtangle.exe	2d652cda8a293797
-7	252	7280992464694754	CMakeFiles/Regtangle.dir/Rectangle.cpp.obj	48500ba17906d97a
 2	546	7284240615387264	CMakeFiles/Regtangle.dir/main.cpp.obj	d8e61bd5d46484b5
 9	550	7284240615447261	CMakeFiles/Regtangle.dir/Point.cpp.obj	7b45fe945196141f
-12	558	7284240615537375	CMakeFiles/Regtangle.dir/Rectangle.cpp.obj	f67794040e2d78c
 558	629	7284240616217258	Regtangle.exe	2d652cda8a293797
+12	558	7284240615537375	CMakeFiles/Regtangle.dir/Rectangle.cpp.obj	f67794040e2d78c
