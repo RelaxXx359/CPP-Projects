@@ -8,18 +8,25 @@ Alcoholic::Alcoholic(string name, double price, int quantity, string type, int v
 }
 
 void Alcoholic::setVolume(int volume) {
+    int alcoholicNumner = 0;
     if (volume > 0) {
         cout << "This is alcoholic drink" << endl;
-        volume = 39;
+        cout << "Current drink: " << getName() << ", price " << getPrice() << ", quantity " << getQuantity()
+             << ", type " << getType() << ", volume "
+             << volume << ", tax " << fee << endl;
+        alcoholicNumner ++;
+    }else{
+        cout << "This is nonAlcholic drink" << endl;
+
     }
     Alcoholic::volume = volume;
 }
 
 void Alcoholic::setFee(double fee) {
-    if (fee > 0) {
-        cout << "Value added tax." << endl;
-        fee = 9;
-    }
+//    if (fee > 0) {
+//        cout << "Value added tax." << endl;
+//        fee = 9;
+//    }
     Alcoholic::fee = fee;
 }
 

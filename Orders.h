@@ -9,9 +9,7 @@ using namespace std;
 
 class Orders {
 public:
-
-    static int number;
-    Orders(const char *drinks, string date);
+    Orders(const string &date);
 
     void setNumber(int);
     void setDate(string);
@@ -20,7 +18,6 @@ public:
 
     int getNumbers();
     string getDate();
-    vector<Drinks*> getDrinks();
     double getTotalPrice();
 
     void printOrder();
@@ -28,7 +25,6 @@ public:
 
 
 private:
-    int numbers;
     vector<Drinks*> drinks;
     string date;
     double totalprice;

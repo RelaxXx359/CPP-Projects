@@ -1,5 +1,6 @@
 #include "Shop.h"
 #include "memory"
+#include "Drinks.h"
 #include <map>
 
 Shop::Shop(vector<User *> users) : users_(users) {}
@@ -7,22 +8,18 @@ Shop::Shop(vector<User *> users) : users_(users) {}
 
 void Shop::soldDrinks() {
     map<string, int> soldProducts;
-    // колко напитки са продадени
-//    int drinkNum = 0;
-//    for (int i = 0; i < users_.size(); ++i) {
-//        cout <<"How many drinks were sold" << endl;
-//        drinkNum++;
-//    }
-//    cout << drinkNum << endl;
-
     int soldAlcoholic = 0;
     int nonAlcoholic = 0;
+
     for (int i = 0; i < users_.size(); ++i) {
         auto userOrders = users_[i]->getOrders();
+
         for (auto order: userOrders) {
             auto userDrinks = order->getDrinks();
+
             for (auto drink: userDrinks) {
                 Alcoholic *alcoholic = dynamic_cast<Alcoholic *>(drink);
+
                 if (alcoholic) {
                     soldAlcoholic++;
                 } else {
@@ -83,7 +80,7 @@ void Shop::bestClient() {
 void Shop::allClients(string type) {
     for (auto user : users_) {
         for (auto order : user->getOrders()) {
-            for (auto drink : order->getDrinks()) {
+            for (auto drink : order->()) {
                 if (type == drink->getType()) {
                     std::cout << user->getUsername() << std::endl;
                     drink->print();
